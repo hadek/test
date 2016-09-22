@@ -7,10 +7,10 @@
 ######################################################################################################### 
 class Connexion extends PDO 
 { 
-    private $db = 'sio_kiepala'; // base de données 
-    private $host = 'mysql-sio.alwaysdata.net'; // adresse de la base 
+    private $db = '***********'; // base de données 
+    private $host = '*****************'; // adresse de la base 
     private $user = 'sio'; // nom 
-    private $pwd = 'sofiane2010'; // mot de passe 
+    private $pwd = '**************'; // mot de passe 
     private $con; // 
     
     private $dns; 
